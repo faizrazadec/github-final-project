@@ -4,7 +4,7 @@
    # Do not use this in production. Sample purpose only.
    # Author: faiz raza
    # Additional Authors:
-   # <faiz.raza.dec>
+   # faizrazadec
    # Input:
    # p, principal amount
    # t, time period in years
